@@ -1,0 +1,28 @@
+body{
+  background-color: lightgrey;
+}
+header {
+  background-color: darkgrey;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.info {
+  background-color: Olive;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-align: center;
+}
+
+.info2 {
+  background-color: Olive;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  text-align: center;
+}
+
+.car img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
